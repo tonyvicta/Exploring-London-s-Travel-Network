@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-Transport for London (TfL) is one of the most extensive public transportation networks in the world, serving over 1.5 million journeys daily across a variety of transport modes, including buses, trains, cable cars, and the Underground. This project focuses on analyzing TfL’s journey data from 2010 to 2022, stored in a Snowflake database, to uncover insights into the travel behaviors of Londoners and identify trends and anomalies in transport usage.
+Transport for London (TfL) is one of the most extensive public transportation networks in the world, serving over 1.5 million journeys daily across a variety of transport modes, including buses, trains, cable cars, and the Underground. This project focuses on analysing TfL’s journey data from 2010 to 2022, stored in a Snowflake database, to uncover insights into the travel behaviors of Londoners and identify trends and anomalies in transport usage.
 
 By leveraging SQL and data analysis techniques, this project explores critical questions such as:
 
@@ -13,7 +13,7 @@ By leveraging SQL and data analysis techniques, this project explores critical q
 Through this analysis, the project provides actionable insights into transport trends, highlighting how data can inform decisions for urban planning, transport management, and future infrastructure improvements.
 
 ## Project Objective
-The primary objective of this project is to analyze TfL journey data to achieve the following:
+The primary objective of this project is to analyse TfL journey data to achieve the following:
 
 1. Identify Popular Transport Methods:
 Understand which modes of transport are most commonly used by Londoners and how these preferences have evolved over time.
